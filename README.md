@@ -1,5 +1,8 @@
 # ESE516-GreenPanther : plant health monitor measuring soil NPK levels, moisture, and watering plants as necessary.
 
+## Team Members
+Akshaya Nidhi Bhati, Aurunima Samaddar
+
 <div align="center">
   <img src="Media/GP_1.jpg" alt="Image 1" width="300" />
   <img src="Media/GP_2D_top.jpg" alt="Image 2" width="300" />
