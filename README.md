@@ -5,7 +5,7 @@ Akshaya Nidhi Bhati, Aurunima Samaddar
 
 <div align="center">
   <img src="Media/GP_1.jpg" alt="Image 1" width="300" height = "300"/>
-  <img src="Media/GP_PCB_2D_top.jpg" alt="Image 2" width="300" height = "300"/>
+  <img src="Media/GP_NodeRedDesign_frontend.png" alt="Image 2" width="300" height = "300"/>
   <img src="Media/GP_PCB_2D_bottom.jpg" alt="Image 3" width="300" height = "300" />
   <img src="Media/GP_PCB_4.jpg" alt="Image 3" width="300" height = "300" />
   <img src="Media/GP_PCB_3.jpg" alt="Image 3" width="300" height = "300" />
