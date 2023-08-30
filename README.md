@@ -3,6 +3,9 @@
 ## Team Members
 Akshaya Nidhi Bhati, Aurunima Samaddar
 
+## Video
+<img src="Media/GP_VideoPresentation.mp4" alt="Image 3" width="300" height = "300" />
+
 <div align="center">
   <img src="Media/GP_1.jpg" alt="Image 1" width="300" height = "300"/>
   <img src="Media/GP_PCB_2.jpg" alt="Image 3" width="300" height = "300" />
