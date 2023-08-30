@@ -2,8 +2,8 @@
 
 <div align="center">
   <img src="Media/GP_1.jpg" alt="Image 1" width="300" />
-  <img src="Media/GP_2.jpg" alt="Image 2" width="300" />
-  <img src="Media/GP_3.jpg" alt="Image 3" width="300" />
+  <img src="Media/GP_2D_top.jpg" alt="Image 2" width="300" />
+  <img src="Media/GP_6.jpg" alt="Image 3" width="300" />
 </div>
 
 <p align="center">
