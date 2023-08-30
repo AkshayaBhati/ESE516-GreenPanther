@@ -4,7 +4,9 @@
 Akshaya Nidhi Bhati, Aurunima Samaddar
 
 ## Video
-https://youtu.be/gaHa-PfdyFk
+
+https://github.com/AkshayaBhati/ESE516-GreenPanther/assets/114259992/3b342ac8-ac1c-404f-9613-83fa90e31549
+
 
 ## Photos
 
