@@ -13,6 +13,8 @@ https://youtu.be/gaHa-PfdyFk
   <img src="Media/GP_PCB_2.jpg" alt="Image 3" width="300" height = "300" />
   <img src="Media/GP_NodeRedDesign_backend.png" alt="Image 2" width="300" height = "300"/>
   <img src="Media/GP_PCB_2D_bottom.png" alt="Image 3" width="300" height = "300" />
+  <img src="Media/GP_PCB_front_2.jpg" alt="Image 3" width="300" height = "300" />
+  <img src="Media/GP_PCB_back_1.jpg" alt="Image 3" width="300" height = "300" />
   
 </div>
 
