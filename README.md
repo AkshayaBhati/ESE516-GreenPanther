@@ -4,8 +4,7 @@
 Akshaya Nidhi Bhati, Aurunima Samaddar
 
 ## Video
-<img src="Media/GP_VideoPresentation.mp4" alt="Image 3" width="300" height = "300" />
-[![Watch the video](thumbnail_image_url)](https://youtu.be/gaHa-PfdyFk)
+https://youtu.be/gaHa-PfdyFk
 
 <div align="center">
   <img src="Media/GP_1.jpg" alt="Image 1" width="300" height = "300"/>
