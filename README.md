@@ -1,11 +1,14 @@
 # ESE516-GreenPanther : plant health monitor measuring soil NPK levels, moisture, and watering plants as necessary.
 
-<details>
-  <summary>The title of the image group</summary><details>
-  <img src="image-url" name="image-name">
-  <img src="image-url" name="image-name">
-  <img src="image-url" name="image-name">
-</details>
+<div align="center">
+  <img src="images/image1.jpg" alt="Image 1" width="300" />
+  <img src="images/image2.jpg" alt="Image 2" width="300" />
+  <img src="images/image3.jpg" alt="Image 3" width="300" />
+</div>
+
+<p align="center">
+  <em>Use navigation arrows or dots to indicate interaction.</em>
+</p>
 
 ## Inspiration
 The inspiration for this project came from the increasing challenges faced in agriculture and plant science due to the rise of plant diseases and water scarcity. With the global population projected to reach 9.7 billion by 2050, the need for sustainable agriculture has become more crucial than ever. According to the Food and Agriculture Organization (FAO), plant diseases can cause significant losses in crop production (up to 40 percent), resulting in economic and social consequences. In addition, water scarcity is a growing concern, with climate change exacerbating the issue.
