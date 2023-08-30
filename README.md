@@ -11,8 +11,8 @@ https://youtu.be/gaHa-PfdyFk
 <div align="center">
   <img src="Media/GP_1.jpg" alt="Image 1" width="200" height = "200"/>
   <img src="Media/GP_PCB_2.jpg" alt="Image 3" width="200" height = "200" />
+   <img src="Media/GP_NodeRedDesign_frontend.png" alt="Image 2" width="200" height = "200"/>
   <img src="Media/GP_NodeRedDesign_backend.png" alt="Image 2" width="200" height = "200"/>
-  <img src="Media/GP_NodeRedDesign_frontend.png" alt="Image 2" width="200" height = "200"/>
   <img src="Media/GP_PCB_2D_top.png" alt="Image 3" width="200" height = "200" />
   <img src="Media/GP_PCB_2D_bottom.png" alt="Image 3" width="200" height = "200" />
   <img src="Media/GP_PCB_front_2.jpg" alt="Image 3" width="200" height = "200" />
